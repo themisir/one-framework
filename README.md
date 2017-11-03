@@ -3,7 +3,7 @@ Simple, useable, and small php mvc framework build by developers for developers.
 
 ### Information
 
-Author:		Misir Jafarov from [OneDev Group](https://onedevgroup.com/)\
+Author:		[Misir Jafarov](https://www.facebook.com/misir.ceferov) from [OneDev Group](https://onedevgroup.com/)\
 License: 	Apache 2.0\
 Languages:	PHP
 Credits:	[reCAPTCHA](https://www.google.com/recaptcha/), [medoo](http://medoo.in)
@@ -14,7 +14,7 @@ Follow this steeps
 
 1. Download all files to server
 
-```bash
+```Bash
 $ git clone https://github.com/onedevgroup/one-framework.git
 ```
 
