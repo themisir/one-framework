@@ -33,6 +33,6 @@ $config = [
 	],
 
 	'api'		=> [
-		'recaptcha' => '6LdPrBkUAAAAAF0rSHxV4AlHujF16SaNe9ARaHq3'
+		'recaptcha' => 'YOUR_RECAPTCHA_SECRET'
 	]
 ];
