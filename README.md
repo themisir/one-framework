@@ -5,7 +5,7 @@ Simple, useable, and small php mvc framework build by developers for developers.
 
 Author:		[Misir Jafarov](https://www.facebook.com/misir.ceferov) from [OneDev Group](https://onedevgroup.com/)\
 License: 	Apache 2.0\
-Languages:	PHP
+Languages:	PHP\
 Credits:	[reCAPTCHA](https://www.google.com/recaptcha/), [medoo](http://medoo.in)
 
 ### How to use
